@@ -1,0 +1,4 @@
+SELECT DISTINCT *
+FROM ctsdd.panel
+WHERE protocol = 'ENTER PROTOCOL NAME'
+ORDER BY panel;
